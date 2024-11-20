@@ -1,0 +1,41 @@
+main {
+    max-width: 800px;
+    width: 100%;
+    margin: 0 auto;
+}
+
+body {
+    background-color: darkorchid;
+}
+
+h1 {
+    text-align: center;
+    color: rgb(245, 230, 101);
+}
+
+#info p {
+    font-size: 16px;
+    color: beige;
+    background-color: rgb(176, 127, 200);
+    width: 50%;
+    text-align: center;
+    padding: 20px 30px;
+    border-radius: 10px;
+    margin: 0 auto;
+}
+
+#image-container {
+    margin: 50px;
+    text-align: center;
+}
+
+#image-container img {
+    border-radius: 50%;
+}
+
+
+
+
+
+
+
